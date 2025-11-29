@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/myenv/bin/python",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/myenv/lib/python3.11/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
