@@ -6,5 +6,8 @@
     "python.analysis.typeCheckingMode": "off",
     "python.analysis.diagnosticSeverityOverrides": {
         "reportMissingImports": "none"
-    }
+    },
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.tabCompletion": "on",
+    "editor.suggestSelection": "first"
 }
