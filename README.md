@@ -1,5 +1,6 @@
 # generative-modeling
 - docs: https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
+<br/><br/>
 
 ## 환경 설정 (macOS Apple Silicon)
 ### Python 3.11 설치
@@ -31,6 +32,7 @@ python -c "import tensorflow as tf; print(tf.__version__)"
     ```bash
     deactivate
     ```
+<br/><br/>
 
 # 모델 시각화
 ## 모듈 설치
